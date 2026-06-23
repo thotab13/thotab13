@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhuvan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhuvan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thotab13)
 [![GitHub](https://img.shields.io/badge/GitHub-thotab13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thotab13)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Bhuvana__Chandra-FF5733?style=for-the-badge&logo=safari&logoColor=white)](https://bhuvana-chandra-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-thotab15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thotab15@gmail.com)
